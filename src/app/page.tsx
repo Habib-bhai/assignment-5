@@ -19,7 +19,7 @@ export default function Home() {
 
         <div className="image relative mt-16 md:mt-0 ">
           <Image src={"/images/hero-section.png"} alt="hero-sec-image" height={573} width={421} />
-          <div className="absolute top-10 right-6 border-[1px] border-white  rounded-tl-[100px] rounded-br-[100px] h-[480px] w-[370px] md:h-[525px] md:w-[380px]">
+          <div className="absolute top-10 right-6 border-[1px] border-white  rounded-tl-[100px] rounded-br-[100px] h-[420px] w-[320px] md:h-[525px] md:w-[380px]">
           </div>
         </div>
       </div>
